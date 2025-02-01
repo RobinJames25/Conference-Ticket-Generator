@@ -18,7 +18,6 @@ Tailwind CSS Styling – Utilizes utility-first CSS for a sleek and modern desig
 
 Live Preview – Users can see how their ticket looks in real time.
 
-Download Option (Optional) – Option to download the generated ticket as an image or PDF (if implemented).
 
 Technologies Used
 
@@ -28,13 +27,9 @@ TypeScript – Enhances the project with static typing.
 
 Tailwind CSS – Provides efficient styling with a utility-first approach.
 
-File Handling APIs – Manages user-uploaded images for avatar display.
-
-HTML5 Canvas or Libraries (Optional) – Used for exporting the ticket as an image.
-
 Installation
 1.Clone the repository:
-git clone https://github.com/your-username/ticket-generator.git
+git clone https://github.com/RobinJames25/Conference-Ticket-Generator
 cd ticket-generator
 
 2.Install dependencies:
